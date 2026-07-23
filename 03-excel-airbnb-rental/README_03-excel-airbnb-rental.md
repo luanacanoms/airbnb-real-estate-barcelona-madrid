@@ -4,19 +4,19 @@ Análisis de precios y disponibilidad de anuncios de Airbnb en Barcelona
 mediante Tabla Dinámica, con foco en identificar patrones de alquiler de
 larga duración disfrazado de alquiler turístico.
 
-## 📁 Contenido de esta carpeta
+Contenido de esta carpeta
 
 | Archivo | Descripción |
 |---|---|
 | `Excel Project Dataset.xlsx` | Dashboard completo con Tabla Dinámica y gráficos |
 
-## 📈 Contenido del dashboard
+Contenido del dashboard
 
 - Precio medio por barrio
 - Precio medio por tipo de alojamiento
 - Disponibilidad media anual por anuncio
 
-## 💡 Insight principal
+Insight principal
 
 Anuncios con **disponibilidad cercana a 365 días al año** pueden indicar
 que la propiedad no está realmente destinada al alquiler turístico de
